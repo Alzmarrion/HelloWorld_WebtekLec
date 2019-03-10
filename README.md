@@ -1,2 +1,2 @@
 # HelloWorld_Webtek
-Webtek_Project_Midterm
+Webtek_Project_Midterms
