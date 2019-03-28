@@ -20,12 +20,12 @@ hr {
     background-color: #8d6748;
     padding: 1px 13px;
     font-size: 30px;
-    text-align: center
+    text-align: center;
 }
 .tableMargin {
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: 13%;
-    margin-right: 13%;
+    margin-right: 5%;
 }
 .aTags {
     font-size: 25px;

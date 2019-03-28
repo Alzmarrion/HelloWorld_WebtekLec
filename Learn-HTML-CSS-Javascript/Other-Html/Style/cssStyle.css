@@ -1,0 +1,11 @@
+table {
+    text-align: center;
+}
+iframe {
+    height: 365px;
+    width: 400px;
+}
+textarea {
+    height: 175px;
+    width: 400px;
+}
