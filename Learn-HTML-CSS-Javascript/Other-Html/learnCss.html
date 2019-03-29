@@ -12,14 +12,21 @@
     <h4>BLYAT LEARN</h4>
     <div id="header">
         <a href="learnHtml.html">HTML</a>
+        <a href="learnJS.html">JavaScript</a>
     </div>
-    <div>
+    <div class="marginLR">
+        <p>Positioning of an element</p>
+        <!-- Write your code here -->
         <button onclick="run()">run</button>
         <table>
             <tr>
                 <td>
                     <textarea placeholder="css here" id="text1">
 <style>
+    svg {
+        position: relative;
+        left: 30%;
+    }
 </style>
                     </textarea>
                 </td>
@@ -29,16 +36,10 @@
             </tr>
             <tr>
                 <td>
-                    <textarea spellcheck="false" placeholder="html here" id="text2">
-<!DOCTYPE HTML>
-<html>
-    <head>
-
-    </head>
-    <body>
-
-    </body>
-</html>
+                    <textarea spellcheck="false" placeholder="html here" id="text2"><svg width='400' height='180'>
+<rect x='10' y='10' rx='10' ry='10' width='130' height='90' style='fill:black; stroke:#CCC;
+stroke-width:5; opacity:0.5'/>
+</svg>
                     </textarea>
                 </td>
             </tr>
