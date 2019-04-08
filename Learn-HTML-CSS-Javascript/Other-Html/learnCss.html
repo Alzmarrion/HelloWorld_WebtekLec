@@ -21,14 +21,25 @@
         <table>
             <tr>
                 <td>
-                    <textarea placeholder="css here" id="text1">
+                    <textarea spellcheck="false" placeholder="css here" id="text1">
 <style>
-    svg {
+    .svg {
         position: relative;
         left: 30%;
     }
+    .svg1 {
+        position: fixed;
+        bottom: 0;
+    }
+    .svg2 {
+        position: static;
+    }
+    .svg3 {
+        position: absolute;
+        right: 0;
+    }
 </style>
-                    </textarea>
+</textarea>
                 </td>
                 <td rowspan="2">
                         <iframe id="framecss" srcdoc=""></iframe>
@@ -37,9 +48,107 @@
             <tr>
                 <td>
                     <textarea spellcheck="false" placeholder="html here" id="text2">
+<h2 class="svg">example of relative</h2>
+<h2 class="svg1">example of fixed</h2>
+<h2 class="svg2">example of static</h2>
+<h3 class="svg3">example of absolute</h3>
+                    </textarea>
                     </textarea>
                 </td>
+            </tr>  
+        </table>
+        <button onclick="run1()">run</button>
+        <table>
+            <tr>
+                <td>
+                    <textarea id="text3" spellcheck="false" placeholder="css here"><style>
+img {
+    margin-bottom: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 350px;
+    }
+div {
+    position: sticky;
+    top: 0;
+    margin-left: 20%;
+}
+</style>
+</textarea>
+                </td>
+                <td rowspan="2">
+                    <iframe id="framecss1"></iframe>
+                </td>
             </tr>
+                <tr>
+                    <td>
+                        <textarea id="text4" spellcheck="false" placeholder="html here">
+<p>I Know This meme is dead but pls</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<div>
+    <br>
+    <br>
+    <h3>making memes in photoshop
+        <br>
+        <br>
+        <br>
+        <br>
+        making memes in paint
+        <br>
+        <br>
+        <br>
+        <br>
+        stealing memes from other 
+        <br>
+        people
+        <br>
+        <br>
+        <br>
+        creating memes in html to
+        <br>
+        show how position: sticky;
+        <br>
+        works(wont work without
+        <br>
+        top: 0;)
+    </h3>
+</div>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>PLS don't kill me</p>
+<img src="Expanding-Brain.jpg" alt="Expanding-Brain meme"></textarea>
+                    </td>
+                </tr>
+            
         </table>
     </div>
     <script src="JavaScript/functionsCss.js"></script>
