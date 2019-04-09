@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="Style/style.css">
+    <link rel="stylesheet" type="text/css" href="Style/cssStyle.css">
+    <title>Position</title>
+</head>
+<body>
+    <h4>BLYAT LEARN</h4>
+    <div id="header">
+        <a href="learnHtml.html">HTML</a>
+        <a href="learnJS.html">JavaScript</a>
+    </div>
+    <div class="marginLR">
+        <p>Positioning of an element</p>
+        <!-- Write your code here -->
+	<div>
+		<ul>
+		<h3>1. position: relative;</h3>
+		<h4> - The elements location will not change if its attribute position is not given.<br>
+		The position of the elements location is with respect to itself. For example giving a value to a<br>
+		attribute like, left: 40%; the position will be moved 40 percent left of where it is located.
+		</h4>
+		<h3>2. position: fixed;</h3>
+		<h4> - Is an element positioned with respect to the design window, or the browser window. If the<br>
+		browser window is scrolled the design window don't change, If the user scroll the page it will<br>
+		stay right where it is positioned.
+
+		<h3>3. position: static;</h3>
+		<h4> - In the webpage elements are positioned in standard order. For every page element the default value<br>
+		is static. Different elements have the same default value for it location, they all start as static.
+		</h4>
+
+		<h3>4. position: absolute;</h3>
+		<h4> - To set the proper location of the element, use the different positioning attributes. This is a positioning<br>
+		where you can place elements where you exactly want it. The value will be default if there is no parent and<br>
+		the element will be located with respect to the webpage.
+		</h4>
+
+		<h3>5. position: sticky;</h3>
+		<h4> - Is a combination of fixed and relative. However, it depends on the user's scroll location where<br>
+		the element will be located. It plays between relative and fixed based on the users scroll location.<br>
+		</h4>
+		</ul>
+	
+	</div>
+        <button onclick="run()">run</button>
+        <table>
+            <tr>
+                <td>
+                    <textarea spellcheck="false" placeholder="css here" id="text1">
+<style>
+    .svg {
+        position: relative;
+        left: 30%;
+    }
+    .svg1 {
+        position: fixed;
+        bottom: 0;
+    }
+    .svg2 {
+        position: static;
+    }
+    .svg3 {
+        position: absolute;
+        right: 0;
+    }
+</style>
+</textarea>
+                </td>
+                <td rowspan="2">
+                        <iframe id="framecss" srcdoc=""></iframe>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <textarea spellcheck="false" placeholder="html here" id="text2">
+<h2 class="svg">example of relative</h2>
+<h2 class="svg1">example of fixed</h2>
+<h2 class="svg2">example of static</h2>
+<h3 class="svg3">example of absolute</h3>
+                    </textarea>
+                    </textarea>
+                </td>
+            </tr>  
+        </table>
+        <button onclick="run1()">run</button>
+        <table>
+            <tr>
+                <td>
+                    <textarea id="text3" spellcheck="false" placeholder="css here"><style>
+img {
+    margin-bottom: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 350px;
+    }
+div {
+    position: sticky;
+    top: 0;
+    margin-left: 20%;
+}
+</style>
+</textarea>
+                </td>
+                <td rowspan="2">
+                    <iframe id="framecss1"></iframe>
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                        <textarea id="text4" spellcheck="false" placeholder="html here">
+<p>I Know This meme is dead but pls</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<div>
+    <br>
+    <br>
+    <h3>making memes in photoshop
+        <br>
+        <br>
+        <br>
+        <br>
+        making memes in paint
+        <br>
+        <br>
+        <br>
+        <br>
+        stealing memes from other 
+        <br>
+        people
+        <br>
+        <br>
+        <br>
+        creating memes in html to
+        <br>
+        show how position: sticky;
+        <br>
+        works(wont work without
+        <br>
+        top: 0;)
+    </h3>
+</div>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>scroll down</p>
+<p>PLS don't kill me</p>
+<img src="Expanding-Brain.jpg" alt="Expanding-Brain meme"></textarea>
+                    </td>
+                </tr>
+            
+        </table>
+    </div>
+    <script src="JavaScript/functionsCss.js"></script>
+</body>
+</html>
