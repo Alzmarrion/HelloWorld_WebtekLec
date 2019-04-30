@@ -1,0 +1,108 @@
+HTML:
+1. What does HTML stand for?
+	a. Hyperlinks and Text Markup Language
+	b. Home Tool Markup Language
+	c. Hyper Text Markup Language
+	d. How to Make Lasagna
+Ans: C
+
+2 How many tags are in a regular element?
+	a. 2
+	b. 1
+	c. 3
+	d. 4
+Ans: A
+
+3. Where do all items for the same web site need to be saved?
+	a. In the same folder
+	b. Where ever is fine
+	c. In different folders
+	d. None of the above
+Ans: A
+
+4. <br /> What type of tag is this?
+	a. Break tag
+	b. A broken one
+	c. An opening tag
+	d. An closing tag
+Ans: A
+
+5. What does View Source do?
+	a. Nothing
+	b. Brings up a note pad with the HTML code already used for the site
+	c. Opens a new website
+	d. None of the above
+Ans: B
+
+CSS:
+1. Which HTML tag is used to define an internal style sheet?
+	a. <style>
+	b. <script>
+	c. <css>
+	d. <body>
+Ans: A
+
+2. Which HTML attribute is used to define inline styles?
+ 	A.	font
+ 	B.	class
+ 	C.	styles
+ 	D.	style
+Ans: D
+
+3. Which is the correct CSS syntax?
+ 
+ 	A.	body {color: black}
+ 	B.	{body;color:black}
+ 	C.	{body:color=black(body}
+ 	D.	body:color=black
+Ans: A
+
+4. How do you insert a comment in a CSS file?
+ 	A.	// this is a comment //
+ 	B.	/* this is a comment */
+ 	C.	' this is a comment
+ 	D.	// this is a comment
+Ans: B
+
+5. Which CSS property controls the text size?
+ 	A.	font-size
+ 	B.	font-style
+ 	C.	text-style
+ 	D.	text-size
+Ans: A
+
+JS:
+1. How many data types are there in javascript?
+	a. 3
+	b. 5
+	c. 6
+	d. 4
+Ans: C
+
+2. Inside which HTML element do we put the JavaScript?
+	a. <js>
+	b. <javascript>
+	c. <script>
+	d. <scripting>
+Ans: C
+
+3. Where is the correct place to insert a JavaScript?
+	a. Both the <head> section and the <body> section are correct
+	b. The <head> section
+	c. The <body> section
+	d. None of the above
+Ans: A
+
+4. What is the correct syntax for referring to an external script called "xxx.js"?
+	a. <script name="xxx.js"> 
+	b. <script href="xxx.js">
+	c. <script src="xxx.js"> 
+	d. None of the above
+Ans: C
+
+5. The external JavaScript file must contain the <script> tag.
+	a. True
+	b. False
+	c. Depends on the type of include 
+	d. None of the above
+Ans: B

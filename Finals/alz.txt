@@ -1,0 +1,54 @@
+----------------HTML -----------------------------
+Who created html?
+Tim Berners-Lee
+
+What is HTML?
+Hypertext Markup Language
+
+What is the largest element heading?
+<H1>
+
+How do you set a bold text?
+<b>
+
+What is the tag to display a web page within the webpage?
+iframe
+
+------------------CSS----------------------------
+
+
+What is CSS?
+Cascading Style Sheets
+
+Who developed CSS?
+Hakon Wium Lie and Bert Bos
+
+When is the official released year of CSS by W3C?
+1996
+
+What is the selector that matches all elements of type?
+Type selector
+
+What is the file extension for CSS?
+.css
+
+
+--------------JS -----------------------------
+Who developed JavaScript?
+Brendan Eich
+
+What is the file extension for JavaScript?
+.js
+
+What is the first browser to support JavaScript?
+Netscape
+
+What is the operator to assign value to a variable?
+=
+
+What is the event to trigger an clickable element?
+onclick
+
+
+
+

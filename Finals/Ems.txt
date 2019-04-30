@@ -1,0 +1,108 @@
+HTML
+
+1.) In HTML, what attribute is used to make a link?
+	a)<a href="i.slu.edu.ph"></a>
+	b)<img src="sample.jpg">
+	c)<p>I am a paragraph</p>
+	d) a:link {
+  		color: red;
+		   }
+Answer: A
+
+2.) What of the following is not an element of HTML?
+	a) <h1>
+	b) <h3>
+	c) <paragraph>
+	d) <html>
+Answer: C
+
+3.) This element is used to define a paragraph
+	a) <p>
+	b) <paragraph>
+	c) <Paragraph>
+	d) <paragraphs>
+Answer: A
+
+4.) What HTML attribute is used to add a CSS property?
+	a) css
+	b) linkstyle
+	c) style
+	d) csslinkstyle
+Answer: C
+
+5.) What img attribute is used to specify the URL of an image?
+	a) link
+	b) src
+	c) url
+	d) style
+Answer: B
+
+CSS
+
+1.) What CSS code is used to style a link that a user have not yet visited?
+	a) a:link {
+ 	 color: red;
+		}
+	b) a:visited {
+  	color: red;
+		}
+	c) a:active {
+ 	 color: red;
+		}		
+	d) a:hover {
+  	color: red;
+		}
+Answer: A
+
+2.) What CSS property is used to define the font of an element?
+	a) font-style
+	b) font-property
+	c) font-family
+	d) font-src
+Answer: C
+
+3.) What Border property is used to specify the type of border to be displayed?
+	a) border-family
+	b) border-property
+	c) border-style
+	d) border-typr
+Answer: C
+
+4.) What CSS selector is used to select all elements?
+	a) p
+	b) *
+	c) &
+	d) #
+Answer: B
+
+5.) What is the symbol used for the child selector in CSS?
+	a) (>)
+	b) (=)
+	c) (+)	
+	d) ( )
+Answer: A
+
+JavaScript
+1.) What JavaScript code is used to store the value of 8 on an x variable
+	a) int x = 8;
+	b) x = 8;
+	c) var x ++ 8;
+	d) var x = 8;
+Answer: D
+
+2.) What symbol is used to declare a single line comment?
+	a) */
+	b) /
+	c) //
+	d) /*
+Answer: C
+
+3.) What Arithmetic Operator is used to perform an increment on a variable?
+Answer: ++
+
+4.) What Arithmetic Operator is used to perform a decrement on a variable?
+Answer: --
+
+5.) What Arithmetic Operator is used to perform an exponentiation which raises the
+first value to the power of the second value?
+Answer: **
