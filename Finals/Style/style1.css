@@ -1,0 +1,132 @@
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+.topintro{
+	text-align:center;
+	background-color: #403F45;
+	padding:50px;
+	color: white;
+	width:auto;
+}
+p{
+	font-size:25px;
+	left:0;
+
+}
+#header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    background-color: #231F20;
+    padding: 1px 13px;
+    font-size: 30px;
+    text-align: center;
+}
+.aTags {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+.title {
+    font-family: sans-serif;
+    text-align: center;
+    letter-spacing: 9px;
+}
+:hover.aTags {
+    transition: 0.5s;
+    background-color: #AD974F;
+}
+.Basics{
+	text-align:left;
+	padding: 6px 6px 6px 32px;
+	font-family:Arial black;
+	font-size:20px;
+}
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #EAEAEA;
+  overflow-x: hidden;
+  padding-top: 20px;
+  
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  display: block;
+  font-family:Times;
+}
+
+.sidenav a:hover {
+    transition: 0.5s;
+    background-color: #AD974F;
+}
+.sidenav a:active{
+	color: #AD974F;
+}
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 2px;
+}
+
+
+.start {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size:10px;
+	 font-weight: 800;
+	margin-top:40px;
+	text-align:center;
+margin-left:200px;
+  border-radius: 35px;
+  background: #73AD21;
+  padding: 10px;  
+  width:80px
+}
+.JavaScript{
+	margin-left:200px
+}
+#JSInfo{
+	margin-left:200px;
+	font-size:20px
+	}
+.intro{
+	margin-left:200px;
+	font-size:50px;
+	border-bottom:3px dotted gray;
+}
+.mainintro{
+	margin-left:200px;
+}
+.history{
+	margin-left:200px;
+	font-size:30px;
+	border-top:1px dotted gray;
+}
+.hist{
+	margin-left:200px;
+}
+.advantages{
+	margin-left:200px;
+	font-size:30px;
+		border-top:1px dotted gray;
+}
+.adv{
+	margin-left:200px;
+	font-size:20px;
+}
+.end{
+	background-color;#AD974F;
+}
+</style>

@@ -1,0 +1,54 @@
+.title {
+    font-family: sans-serif;
+    text-align: center;
+    letter-spacing: 9px;
+}
+#header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    background-color: #231F20;
+    padding: 1px 13px;
+    font-size: 30px;
+    text-align: center;
+}
+.aTags {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+:hover.aTags {
+    transition: 0.5s;
+    background-color: #AD974F;
+}
+h4{
+	text-align:center;
+}
+table {
+    text-align: center;
+}
+button{
+        position: fixed;
+        width:200px;
+        height:20px;
+        top: 50%;
+        left: 50%;
+        margin-top: -100px;
+        margin-left: -100px;
+        border-bottom-width:1px;
+        border-top-width:1px;
+        border-right-width:1px;
+        border-left-width:1px;
+        border-style:solid;
+        border-color:#000000;
+        text-align:center;
+		position:relative;
+}
+
+iframe {
+    height: 365px;
+    width: 800px;
+}
+textarea {
+    height: 175px;
+    width: 400px;
+}
