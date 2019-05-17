@@ -1,0 +1,57 @@
+CSS Questions and answers
+
+1.CSS stand for?
+answer:     Cascade style sheet
+
+2.A ___________   consist of a property and a value,
+answer: Deceleration
+
+3.h1 {_________:VALUE;}
+answer:      property
+
+4.A declaration is terminated by a..
+answer:     ; - Semi colon 
+
+5.<div>     Hello <span class="world">world</span> </div>
+answer:       .world{ ... } 
+
+
+ 
+ 
+ HTML Questions and answers
+ 
+ 1.What is HTML?  
+ answer:     Hyper text Markup language
+ 
+ 2.Where is the text of the title tag displayed?
+ answer:      In the title bar
+ 
+ 3.What happens if you forget a slash at the end of a header tag?
+ answer:       Everything following will be a heading format
+ 
+ 4.What identifies the end of a two-sided tag?
+ answer:        closing tag
+ 
+ 5.What tag usually contains information about the document that will not appear in the Web page?
+answer:          Head tag
+ 
+ 
+ 
+ Javascript Questions and answers
+ 1.Which company developed JavaScript?
+ answer:       Netscape
+ 
+ 2.What is === operator?
+ answer:        Strict euqality operator
+ 
+ 3.It is used to prevent the page from refreshing and parameter "zero" is passed while calling.
+answer:          Void(0)
+ 
+ 4.A built-in method returns the calling string value converted to lower case?
+answer:           toLowerCase()
+ 
+ 5.It returns the primitive value of the Boolean object.
+answer:            valueOf()
+ 
+ 
+ 
